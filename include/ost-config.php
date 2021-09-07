@@ -39,9 +39,9 @@ define('ADMIN_EMAIL','demouser@opsgility.com');
 # ---------------------------------------------------
 # Mysql Login info
 define('DBTYPE','mysql');
-define('DBHOST','yourservername.mysql.database.azure.com');
+define('DBHOST','user25eosticketsrv01.mysql.database.azure.com');
 define('DBNAME','osticket');
-define('DBUSER','demouser@yourservername');
+define('DBUSER','demouser@user25eosticketsrv01');
 define('DBPASS','demo@pass123');
 
 # Table prefix
@@ -68,7 +68,7 @@ define('TABLE_PREFIX','ost_');
 # define('DBSSLCERT','/path/to/client.crt');
 # define('DBSSLKEY','/path/to/client.key');
 
-#
+#.
 # Mail Options
 # ---------------------------------------------------
 # Option: MAIL_EOL (default: \n)
